@@ -11,18 +11,6 @@
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Table Of Contents
-
-- [Project Summary](project-Summary)
-- [GitHub Link](GitHu-blink)
-- [Problem Statement](problem-statements)
-- [Project Files Description](project-files-description)
-- [Dataset Contents](dataset-contents)
-- [Variables Details Of Dataset](variables-details-of-dataset)
-- [Technologies Used](technologies-used)
-- [Steps Involved](#steps-involved)
-- [Key Insights](key-insights)
-- [Conclusion](conclusion)
 
 - ## 📋 Project Summary
 The "Regression-Yes Bank Stock Closing Price Prediction" capstone project aims to develop an accurate and reliable model for forecasting the closing prices of Yes Bank stocks. Yes Bank, a prominent financial institution, is subject to various market dynamics and economic factors that influence its stock prices. The project utilizes regression analysis, a powerful statistical method, to create a predictive model that can assist investors, traders, and financial analysts in making informed decisions.
